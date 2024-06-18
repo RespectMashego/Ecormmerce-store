@@ -1,1 +1,1 @@
-Online shopping  store with Strapi Admin
+Online shopping   store with Strapi Admin
